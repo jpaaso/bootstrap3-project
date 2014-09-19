@@ -4,19 +4,11 @@ To change this template file, choose Tools | Templates
 and open the template in the editor.
 */
 /* 
-    Created on : Sep 19, 2014, 1:21:15 PM
+    Created on : Sep 18, 2014, 2:58:55 PM
     Author     : jpaaso
 */
 
 body { padding-bottom: 20px; }
-.header { height: 280px; padding: 20px; }
-.temp-placehoder { height: 1000px; }
-
-/* Navbar */
-.navbar-fixed {
-    top: 0;
-    z-index: 100;
-    position: fixed;
-    width: 100%;
-}
+.header { padding: 20px; }
+.row { min-height: 1200px; }
 
