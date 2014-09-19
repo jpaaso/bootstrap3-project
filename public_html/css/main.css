@@ -12,6 +12,9 @@ body {
 .temp-placehoder {
   height: 1000px; }
 
+.below-fixed-navbar {
+  margin-top: 73px; }
+
 /* Navbar */
 .navbar-fixed {
   top: 0;
