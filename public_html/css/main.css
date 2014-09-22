@@ -2,8 +2,15 @@
     Created on : Sep 18, 2014, 2:58:55 PM
     Author     : jpaaso
 */
+h1, h2, h3, h4, h5, h6, body {
+  color: #141928; }
+
 body {
   padding-bottom: 20px; }
+
+h1 {
+  text-align: center;
+  text-transform: uppercase; }
 
 .header {
   height: 280px;
@@ -14,6 +21,9 @@ body {
 
 .below-fixed-navbar {
   margin-top: 73px; }
+
+.img-holder {
+  -webkit-transform: translateZ(-1px); }
 
 /* Navbar */
 .navbar-fixed {
