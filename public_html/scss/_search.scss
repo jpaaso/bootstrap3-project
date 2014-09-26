@@ -1,0 +1,25 @@
+/* ---------  Search ------- */
+.search-button {
+    background: none;
+    color: black;
+    border: none;
+    /*box-shadow:none;*/
+}
+.search-button:hover {
+    background: none;
+    color: black;
+}
+.search-button:focus {
+    background: none;
+    color: black;
+}
+.search-field-height {
+    height: 43px;
+}
+#search-field {
+    @extend .search-field-height;
+    width: 0px;
+    border-width: 0px;
+    font-size: 20px;
+    padding-left: 20px;
+}

@@ -2,9 +2,10 @@
     Created on : Sep 18, 2014, 2:58:55 PM
     Author     : jpaaso
 */
+@import 'search';
 
 h1, h2, h3, h4, h5, h6, body { color: #141928; }
-body { padding-bottom: 20px; }
+body { padding-bottom: 20px; /*background-color: lightblue;*/ }
 h1 { text-align: center; text-transform: uppercase; }
 
 .header { height: 280px; padding: 20px; }
